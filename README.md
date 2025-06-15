@@ -8,20 +8,25 @@ I'm a graduate and currently pursuing a **Master's in Computer Science and Engin
 ## 🎯 Career Objective
 To contribute to the academic and research community through teaching, innovative projects, and continuous learning—especially in the fields of **Artificial Intelligence**, **Machine Learning**, **Natural Language Processing**, and **Software Engineering**.
 
+
 ---
+
 
 ## 🚀 Technical Skills
 
-| Category         | Tools & Technologies |
-|------------------|----------------------|
-| **Languages**    | C, C++, Java, Python, JavaScript, Dart, SQL, PHP, HTML5, CSS3 |
-| **Frameworks**   | React.js, Node.js, Django, Bootstrap, Java Swing, Mocha |
-| **Tools**        | Git, GitHub, GitHub Actions, NetBeans, Android Studio, Arduino IDE |
-| **Databases**    | MySQL, SQLite, Firebase Firestore |
-| **Embedded/IoT** | ESP32, Arduino, Thingspeak, Blynk |
-| **Others**       | Agile, Scrum, REST API, LaTeX |
+| Category         | Tools & Technologies                                                                                                         |
+|------------------|------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**    | <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="24" /> &nbsp; <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" /> &nbsp; <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" /> &nbsp; <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" /> &nbsp; <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" /> &nbsp; <img alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="24" /> &nbsp; <img alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" /> &nbsp; <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24" /> &nbsp; <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" /> &nbsp; <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" /> |
+| **Frameworks**   | <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" /> &nbsp; <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" /> &nbsp; <img alt="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg" width="24" style="vertical-align:middle;" /> &nbsp; <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="24" /> &nbsp; <img alt="Java Swing" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" /> &nbsp; <img alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="24" /> |
+| **Tools**        | <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" /> &nbsp; <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" /> &nbsp; NetBeans &nbsp; <img alt="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="24" /> &nbsp; <img alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="24" /> |
+| **Databases**    | <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" /> &nbsp; <img alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="24" /> &nbsp; <img alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="24" /> |
+| **Embedded/IoT** | ESP32 &nbsp; <img alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="24" /> &nbsp; Thingspeak &nbsp; Blynk |
+| **Others**       | Agile &nbsp; Scrum &nbsp; REST API &nbsp; LaTeX |
+
+
 
 ---
+
 
 ## 📚 Projects
 
