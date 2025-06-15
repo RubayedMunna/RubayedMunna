@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Rubayed All Islam (Munna)!
 
-## 🧑‍🎓 About Me
-I'm a final-year Computer Science and Engineering student at **Jahangirnagar University** with a passion for building impactful software, solving algorithmic problems, and conducting research in cutting-edge domains like **AI, ML, NLP**, and **IoT**. I enjoy teaching, contributing to open-source, and collaborating on meaningful technical projects.
+## 🧑‍💻 About Me
+I'm a graduate and currently pursuing a **Master's in Computer Science and Engineering** at **Jahangirnagar University**. I'm passionate about software development, algorithmic problem-solving, and conducting research in **AI, ML, NLP**, and **IoT**. I enjoy teaching, exploring new technologies, and working on impactful projects.
 
 ---
 
@@ -40,11 +40,9 @@ To contribute to the academic and research community through teaching, innovativ
 ## 🎓 Education
 
 - **Jahangirnagar University**, Savar, Dhaka  
-  B.Sc. in Computer Science and Engineering (2020–2025)  
+  🧑‍🎓 **M.Sc. in Computer Science and Engineering** — *Enrolled*  
+  🎓 **B.Sc. in Computer Science and Engineering** (2020–2025)  
   **CGPA:** 3.81/4.00 (up to 3rd year 2nd semester)
-
-- **Badarganj Govt. College, Rangpur**  
-  HSC (2019) — GPA: 5.00/5.00
 
 ---
 
