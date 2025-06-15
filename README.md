@@ -116,6 +116,17 @@ To contribute to the academic and research community through teaching, innovativ
 - 🌐 Portfolio: [rubayedmunna.netlify.app](https://rubayedmunna.netlify.app)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rubayed-all-islam-1683841b4/) | [GitHub](https://github.com/RubayedMunna) | [ResearchGate](https://www.researchgate.net/profile/Rubayed-Islam)
 
+
+## 📬 Contact Me
+
+- ✉️ [jucse29.370@gmail.com](mailto:jucse29.370@gmail.com) | [rubayed.stu2019@juniv.edu](mailto:rubayed.stu2019@juniv.edu)  
+- 💬 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%230075E4.svg?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801864852588)  
+- 🌐 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlesites&logoColor=white)](https://rubayedmunna.netlify.app)  
+- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubayed-all-islam-1683841b4/)  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/RubayedMunna)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Rubayed-Islam)  [![ORCID](https://img.shields.io/badge/ORCID-%2300A14B.svg?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-8494-4190)
+
+
+
+
 ---
 
 ## 📊 GitHub Stats
