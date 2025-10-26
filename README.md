@@ -51,7 +51,7 @@ To contribute to the academic and research community through teaching, innovativ
 - **Jahangirnagar University**, Savar, Dhaka  
   🧑‍🎓 **M.Sc. in Computer Science and Engineering** — *Enrolled*  
   🎓 **B.Sc. in Computer Science and Engineering** (2020–2025)  
-  **CGPA:** 3.82/4.00 (up to 4th year 1st semester)
+  **CGPA:** 3.82/4.00
 
 ---
 
