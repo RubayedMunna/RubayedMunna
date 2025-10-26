@@ -1,5 +1,9 @@
 # 👋 Hello, I'm Rubayed All Islam (Munna)!
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg" alt="Snake game of contributions" />
+</p>
+
 ## 🧑‍💻 About Me
 I'm a graduate and currently pursuing a **Master's in Computer Science and Engineering** at **Jahangirnagar University**. I'm passionate about software development, algorithmic problem-solving, and conducting research in **AI, ML, NLP**, and **IoT**. I enjoy teaching, exploring new technologies, and working on impactful projects.
 
