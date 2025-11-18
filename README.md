@@ -46,6 +46,17 @@ To contribute to the academic and research community through teaching, innovativ
 
 ---
 
+## 📄 Publications
+
+| Title | Authors | Venue (Journal/Conference) | Status | Year | DOI/Link |
+|-------|---------|---------------------------|--------|------|----------|
+| **Adaptive Beamforming of Linear Array Antenna System Using Particle Swarm Optimization and Genetic Algorithm** | Akila Nipo, **Rubayed All Islam**, Md. Imdadul Islam | _International Journal of Wireless and Microwave Technologies (IJWMT)_, Vol. 15, No. 5, pp. 1–20 | 🟢 Published | 2025 | [10.5815/ijwmt.2025.05.01](https://doi.org/10.5815/ijwmt.2025.05.01) |
+| **IoT-Enabled Smart Warehouse Monitoring and Safety System for Real-Time Hazard Detection and Automated Mitigation** | Akila Nipo, **Rubayed All Islam**, Nuzhat Nairy Afrin, Samsun Nahar Khandakar, Md. Ezharul Islam | *IEEE International Conference on Sustainable Technologies For Industry 5.0* | 🟡 Accepted | 2025 | — |
+
+
+---
+
+
 ## 🎓 Education
 
 - **Jahangirnagar University**, Savar, Dhaka  
