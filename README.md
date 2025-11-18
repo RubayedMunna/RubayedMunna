@@ -1,9 +1,16 @@
-# 👋 Hello, I'm Rubayed All Islam (Munna)!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg" alt="Snake game of contributions" />
 </p>
 
+---
+# 👋 Hello, I'm Rubayed All Islam (Munna)!
+
+- ✉️ [jucse29.370@gmail.com](mailto:jucse29.370@gmail.com) | [rubayed.stu2019@juniv.edu](mailto:rubayed.stu2019@juniv.edu)  
+- 💬 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%230075E4.svg?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801864852588)  
+- 🌐 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlesites&logoColor=white)](https://rubayedmunna.netlify.app)  
+- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubayed-all-islam-1683841b4/)  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/RubayedMunna)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Rubayed-Islam)  [![ORCID](https://img.shields.io/badge/ORCID-%2300A14B.svg?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-8494-4190)
+---
 ## 🧑‍💻 About Me
 I'm a graduate and currently pursuing a **Master's in Computer Science and Engineering** at **Jahangirnagar University**. I'm passionate about software development, algorithmic problem-solving, and conducting research in **AI, ML, NLP**, and **IoT**. I enjoy teaching, exploring new technologies, and working on impactful projects.
 
@@ -12,6 +19,25 @@ I'm a graduate and currently pursuing a **Master's in Computer Science and Engin
 ## 🎯 Career Objective
 To contribute to the academic and research community through teaching, innovative projects, and continuous learning—especially in the fields of **Artificial Intelligence**, **Machine Learning**, **Natural Language Processing**, and **Software Engineering**.
 
+---
+
+
+## 🎓 Education
+
+- **Jahangirnagar University**, Savar, Dhaka  
+  🧑‍🎓 **M.Sc. in Computer Science and Engineering** — *Enrolled*  
+  🎓 **B.Sc. in Computer Science and Engineering** (2020–2025)  
+  **CGPA:** 3.82/4.00
+
+
+---
+
+## 🔍 Research Interests
+- Machine Learning & Deep Learning  
+- Natural Language Processing  
+- Data Mining & Big Data  
+- Computer Vision & Image Processing  
+- Internet of Things (IoT)
 
 ---
 
@@ -54,26 +80,10 @@ To contribute to the academic and research community through teaching, innovativ
 | **IoT-Enabled Smart Warehouse Monitoring and Safety System for Real-Time Hazard Detection and Automated Mitigation** | Akila Nipo, **Rubayed All Islam**, Nuzhat Nairy Afrin, Samsun Nahar Khandakar, Md. Ezharul Islam | *IEEE International Conference on Sustainable Technologies For Industry 5.0* | 🟡 Accepted | 2025 | — |
 
 
----
-
-
-## 🎓 Education
-
-- **Jahangirnagar University**, Savar, Dhaka  
-  🧑‍🎓 **M.Sc. in Computer Science and Engineering** — *Enrolled*  
-  🎓 **B.Sc. in Computer Science and Engineering** (2020–2025)  
-  **CGPA:** 3.82/4.00
 
 ---
 
-## 🔍 Research Interests
-- Machine Learning & Deep Learning  
-- Natural Language Processing  
-- Data Mining & Big Data  
-- Computer Vision & Image Processing  
-- Internet of Things (IoT)
 
----
 
 ## 👨‍🏫 Teaching & Mentorship
 - **Mentor**, Competitive Programming Community – JU  
@@ -122,22 +132,7 @@ To contribute to the academic and research community through teaching, innovativ
 - Co-host, National Science Festival 2024 (JU Science Club & JURC)  
   Events: LFR, Robo Soccer
 
----
 
-## 📬 Contact Me
-
-- ✉️ Email: [jucse29.370@gmail.com](mailto:jucse29.370@gmail.com) | [rubayed.stu2019@juniv.edu](mailto:rubayed.stu2019@juniv.edu)  
-- 💬 WhatsApp: [+8801864852588](https://wa.me/8801864852588)  
-- 🌐 Portfolio: [rubayedmunna.netlify.app](https://rubayedmunna.netlify.app)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rubayed-all-islam-1683841b4/) | [GitHub](https://github.com/RubayedMunna) | [ResearchGate](https://www.researchgate.net/profile/Rubayed-Islam)
-
-
-## 📬 Contact Me
-
-- ✉️ [jucse29.370@gmail.com](mailto:jucse29.370@gmail.com) | [rubayed.stu2019@juniv.edu](mailto:rubayed.stu2019@juniv.edu)  
-- 💬 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%230075E4.svg?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801864852588)  
-- 🌐 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlesites&logoColor=white)](https://rubayedmunna.netlify.app)  
-- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubayed-all-islam-1683841b4/)  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/RubayedMunna)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Rubayed-Islam)  [![ORCID](https://img.shields.io/badge/ORCID-%2300A14B.svg?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-8494-4190)
 
 
 
